@@ -12,7 +12,9 @@ assets/         logos
 
 ## 1. Notion database
 
-Create a database with these columns (names must match, or edit `PROP` at the top of `api/cards.js`):
+Live database: [Resource Hub Cards](https://app.notion.com/p/6be6eb68f5964730b1d3c5718ae78e8f), under `Command Center Home / Ministry / Projects / Verity Resource Hub`. It already has the columns below and six draft rows (unpublished) for the known initiatives — fill each in and check Published when it's ready to go live.
+
+Columns (names must match, or edit `PROP` at the top of `api/cards.js`):
 
 | Column        | Type     | Used for                                              |
 |---------------|----------|-------------------------------------------------------|
